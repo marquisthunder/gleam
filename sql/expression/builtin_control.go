@@ -15,8 +15,8 @@ package expression
 
 import (
 	"github.com/juju/errors"
-	"github.com/chrislusf/gleam/sql/context"
-	"github.com/chrislusf/gleam/sql/util/types"
+	"github.com/marquisthunder/gleam/sql/context"
+	"github.com/marquisthunder/gleam/sql/util/types"
 )
 
 var (

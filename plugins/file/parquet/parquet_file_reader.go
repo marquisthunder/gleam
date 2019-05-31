@@ -1,8 +1,8 @@
 package parquet
 
 import (
-	"github.com/chrislusf/gleam/filesystem"
-	"github.com/chrislusf/gleam/util"
+	"github.com/marquisthunder/gleam/filesystem"
+	"github.com/marquisthunder/gleam/util"
 	. "github.com/marquisthunder/parquet-go/ParquetFile"
 	. "github.com/marquisthunder/parquet-go/ParquetReader"
 	. "github.com/marquisthunder/parquet-go/ParquetType"

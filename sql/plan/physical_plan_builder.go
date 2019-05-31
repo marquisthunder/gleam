@@ -18,10 +18,10 @@ import (
 
 	"log"
 
-	"github.com/chrislusf/gleam/sql/context"
-	"github.com/chrislusf/gleam/sql/expression"
-	"github.com/chrislusf/gleam/sql/model"
-	"github.com/chrislusf/gleam/sql/mysql"
+	"github.com/marquisthunder/gleam/sql/context"
+	"github.com/marquisthunder/gleam/sql/expression"
+	"github.com/marquisthunder/gleam/sql/model"
+	"github.com/marquisthunder/gleam/sql/mysql"
 	"github.com/juju/errors"
 )
 

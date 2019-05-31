@@ -18,10 +18,10 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/chrislusf/gleam/sql/context"
-	"github.com/chrislusf/gleam/sql/model"
-	"github.com/chrislusf/gleam/sql/util/codec"
-	"github.com/chrislusf/gleam/sql/util/types"
+	"github.com/marquisthunder/gleam/sql/context"
+	"github.com/marquisthunder/gleam/sql/model"
+	"github.com/marquisthunder/gleam/sql/util/codec"
+	"github.com/marquisthunder/gleam/sql/util/types"
 )
 
 // CorrelatedColumn stands for a column in a correlated sub query.

@@ -1,8 +1,8 @@
 package flow
 
 import (
-	"github.com/chrislusf/gleam/instruction"
-	"github.com/chrislusf/gleam/script"
+	"github.com/marquisthunder/gleam/instruction"
+	"github.com/marquisthunder/gleam/script"
 )
 
 // Pipe runs the code as an external program, which processes the

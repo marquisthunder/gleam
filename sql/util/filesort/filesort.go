@@ -23,9 +23,9 @@ import (
 	"strconv"
 
 	"github.com/juju/errors"
-	"github.com/chrislusf/gleam/sql/sessionctx/variable"
-	"github.com/chrislusf/gleam/sql/util/codec"
-	"github.com/chrislusf/gleam/sql/util/types"
+	"github.com/marquisthunder/gleam/sql/sessionctx/variable"
+	"github.com/marquisthunder/gleam/sql/util/codec"
+	"github.com/marquisthunder/gleam/sql/util/types"
 )
 
 type comparableRow struct {

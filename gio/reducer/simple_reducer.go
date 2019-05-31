@@ -1,7 +1,7 @@
 package reducer
 
 import (
-	"github.com/chrislusf/gleam/gio"
+	"github.com/marquisthunder/gleam/gio"
 )
 
 var (

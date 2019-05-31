@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/chrislusf/gleam/flow"
-	"github.com/chrislusf/gleam/gio"
-	"github.com/chrislusf/gleam/plugins/file"
+	"github.com/marquisthunder/gleam/flow"
+	"github.com/marquisthunder/gleam/gio"
+	"github.com/marquisthunder/gleam/plugins/file"
 )
 
 func runEnableParallel() {

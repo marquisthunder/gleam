@@ -21,12 +21,12 @@ import (
 
 	"log"
 
-	"github.com/chrislusf/gleam/sql/ast"
-	"github.com/chrislusf/gleam/sql/context"
-	"github.com/chrislusf/gleam/sql/mysql"
-	"github.com/chrislusf/gleam/sql/util/charset"
-	"github.com/chrislusf/gleam/sql/util/distinct"
-	"github.com/chrislusf/gleam/sql/util/types"
+	"github.com/marquisthunder/gleam/sql/ast"
+	"github.com/marquisthunder/gleam/sql/context"
+	"github.com/marquisthunder/gleam/sql/mysql"
+	"github.com/marquisthunder/gleam/sql/util/charset"
+	"github.com/marquisthunder/gleam/sql/util/distinct"
+	"github.com/marquisthunder/gleam/sql/util/types"
 	"github.com/juju/errors"
 )
 

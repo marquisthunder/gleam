@@ -17,15 +17,15 @@ import (
 	"strings"
 
 	"github.com/juju/errors"
-	"github.com/chrislusf/gleam/sql/ast"
-	"github.com/chrislusf/gleam/sql/context"
-	"github.com/chrislusf/gleam/sql/expression"
-	"github.com/chrislusf/gleam/sql/infoschema"
-	"github.com/chrislusf/gleam/sql/model"
-	"github.com/chrislusf/gleam/sql/mysql"
-	"github.com/chrislusf/gleam/sql/parser/opcode"
-	"github.com/chrislusf/gleam/sql/sessionctx/varsutil"
-	"github.com/chrislusf/gleam/sql/util/types"
+	"github.com/marquisthunder/gleam/sql/ast"
+	"github.com/marquisthunder/gleam/sql/context"
+	"github.com/marquisthunder/gleam/sql/expression"
+	"github.com/marquisthunder/gleam/sql/infoschema"
+	"github.com/marquisthunder/gleam/sql/model"
+	"github.com/marquisthunder/gleam/sql/mysql"
+	"github.com/marquisthunder/gleam/sql/parser/opcode"
+	"github.com/marquisthunder/gleam/sql/sessionctx/varsutil"
+	"github.com/marquisthunder/gleam/sql/util/types"
 )
 
 // EvalSubquery evaluates incorrelated subqueries once.

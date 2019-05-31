@@ -8,11 +8,11 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/chrislusf/gleam/distributed"
-	"github.com/chrislusf/gleam/flow"
-	"github.com/chrislusf/gleam/gio"
-	"github.com/chrislusf/gleam/util"
-	glow "github.com/chrislusf/glow/flow"
+	"github.com/marquisthunder/gleam/distributed"
+	"github.com/marquisthunder/gleam/flow"
+	"github.com/marquisthunder/gleam/gio"
+	"github.com/marquisthunder/gleam/util"
+	glow "github.com/marquisthunder/glow/flow"
 	"sync"
 	"sync/atomic"
 )

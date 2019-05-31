@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chrislusf/gleam/pb"
+	"github.com/marquisthunder/gleam/pb"
 )
 
 // Serve starts processing stdin and writes output to stdout

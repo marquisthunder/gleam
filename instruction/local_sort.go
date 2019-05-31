@@ -6,8 +6,8 @@ import (
 	"math"
 	"sort"
 
-	"github.com/chrislusf/gleam/pb"
-	"github.com/chrislusf/gleam/util"
+	"github.com/marquisthunder/gleam/pb"
+	"github.com/marquisthunder/gleam/util"
 )
 
 func init() {

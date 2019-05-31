@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/chrislusf/gleam/gio"
-	"github.com/chrislusf/gleam/instruction"
-	"github.com/chrislusf/gleam/script"
+	"github.com/marquisthunder/gleam/gio"
+	"github.com/marquisthunder/gleam/instruction"
+	"github.com/marquisthunder/gleam/script"
 )
 
 // Mapper runs the mapper registered to the mapperId.

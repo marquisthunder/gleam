@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/chrislusf/gleam/gio"
-	"github.com/chrislusf/gleam/util"
+	"github.com/marquisthunder/gleam/gio"
+	"github.com/marquisthunder/gleam/util"
 )
 
 func New(name string) (fc *Flow) {

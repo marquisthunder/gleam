@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/chrislusf/gleam/instruction"
+	"github.com/marquisthunder/gleam/instruction"
 )
 
 type SortOption struct {
