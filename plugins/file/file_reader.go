@@ -33,9 +33,6 @@ func Tsv(fileOrPattern string, partitionCount int) *FileSource {
 func Orc(fileOrPattern string, partitionCount int) *FileSource {
 	return newFileSource("orc", fileOrPattern, partitionCount)
 }
-func Parquet(fileOrPattern string, partitionCount int) *FileSource {
-	return newFileSource("parquet", fileOrPattern, partitionCount)
-}
 
 func (ds *FileShardInfo) NewReader(vf filesystem.VirtualFile) (FileReader, error) {
 	// These formats require seeking, so they cannot be
