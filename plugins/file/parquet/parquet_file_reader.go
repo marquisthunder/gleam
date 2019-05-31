@@ -3,9 +3,9 @@ package parquet
 import (
 	"github.com/chrislusf/gleam/filesystem"
 	"github.com/chrislusf/gleam/util"
-	. "github.com/xitongsys/parquet-go/ParquetFile"
-	. "github.com/xitongsys/parquet-go/ParquetReader"
-	. "github.com/xitongsys/parquet-go/ParquetType"
+	. "github.com/marquisthunder/parquet-go/ParquetFile"
+	. "github.com/marquisthunder/parquet-go/ParquetReader"
+	. "github.com/marquisthunder/parquet-go/ParquetType"
 	"io"
 )
 
